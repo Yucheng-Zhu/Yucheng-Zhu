@@ -1,3 +1,7 @@
+Hi all! My name is Yucheng Zhu, and I write machine learning and general projects. While projects may be uploaded to GitHub recently, some of them have been used and maintained for up to 6 years. I hope you find them useful as much as we do.
+
+## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 <!--
 **Yucheng-Zhu/Yucheng-Zhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
